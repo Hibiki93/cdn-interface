@@ -29,7 +29,7 @@ export default {
     return {
       isLoading:true,
       currentPage: 1,
-      perPage: 5,
+      perPage: 20,
       total: 0,
       totalPages: 0,
       freelancerList: [],
